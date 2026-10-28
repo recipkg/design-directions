@@ -5,14 +5,14 @@ format = "recipkg/1"
 
 [package]
 name = "design-directions"
-version = "0.1.0"
+version = "0.1.1"
 kind = "software"
 description = "面向不同产品任务选择与验证视觉方向的设计合同。"
 entry = "BUILD_PROMPT.md"
 
 [dependencies.foundation]
 git = "https://github.com/recipkg/design-foundations.git"
-rev = "bee6e280571b96128ce1541dddd51d11ec4dbf29"
+rev = "8c5bf1f1e40719789cf51bc0dfd8f5aeecae0538"
 ```
 
 本包提供设计方向和选择方法，依赖 `foundation` 提供交互、响应式和无障碍质量底线；它不是某个厂商的设计系统副本。
