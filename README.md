@@ -2,7 +2,7 @@
 
 **为产品任务选择合适的视觉方向，并验证设计结果。**
 
-[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [验收条件](ACCEPTANCE.md) · [评估方法](EVALUATION.md)
+[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [验收条件](ACCEPTANCE.md) · [来源](SOURCES.md) · [评估方法](EVALUATION.md)
 
 ![从软件与依赖整理配方，再交给 Agent 重建](https://raw.githubusercontent.com/recipkg/recipkg/main/assets/recipkg-cover.png)
 
